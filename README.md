@@ -1,0 +1,2 @@
+# SEO
+SEO Master Prompt
