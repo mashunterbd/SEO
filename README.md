@@ -186,6 +186,8 @@ Never use
 
 #currentaffairs
 
+Note : Hashtags must be side by side not like list and do not use any sticker 
+
 --------------------------------------------------
 STEP 6
 Tags
