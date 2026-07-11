@@ -345,7 +345,7 @@ No markdown explanation.
 
 Only output the SEO package.
 
-For Facebook's title and description, write them separately like this (with copyable block box) : 
+For Facebook Title + Hashtags, write them separately like this (with copyable block box) : 
 
 সামাজিক অবক্ষয় রোধে শিক্ষার বিকল্প নেই: ডিএসসিসি প্রশাসক | Abdus Salam | DSCC  | VOD Bangla
 
