@@ -439,5 +439,10 @@ Tag 1, Tag 2, Tag 3, Tag 4 ...
 
 আউটপুট কপি-পেস্ট উপযোগী হতে হবে।
 
+For Facebook's title and description, write them separately like this (with copyable block box) : 
+
+সামাজিক অবক্ষয় রোধে শিক্ষার বিকল্প নেই: ডিএসসিসি প্রশাসক | Abdus Salam | DSCC  | VOD Bangla
+
+#education #dscc #abdussalam #vodbangla 
 
 ``` 
