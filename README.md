@@ -345,6 +345,22 @@ No markdown explanation.
 
 Only output the SEO package.
 
+There will be a video description and video chapter and hashtags below it, an example is given below, this is exactly how it will be given, this is for YouTube:
+
+Short Description +  Video Chapters + Hashtags
+
+ভারী বৃষ্টিতে জলমগ্ন নগরের পরিস্থিতি এবং তা পরিদর্শনে ডিএসসিসি প্রশাসকের তদারকির বিষয়টি এই প্রতিবেদনে তুলে ধরা হয়েছে।
+
+ডিএসসিসি প্রশাসক আব্দুস সালামের তদারকি কার্যক্রম এবং নগরের বৃষ্টিজনিত পরিস্থিতি সম্পর্কে সংক্ষিপ্ত তথ্য জানতে সম্পূর্ণ ভিডিওটি দেখুন।
+
+00:00 Introduction
+00:18 Waterlogged City Overview
+00:42 DSCC Administrator Inspection
+01:08 Rain Situation Update
+01:47 Closing Remarks
+
+#heavyrain #dscc #abdussalam #vodbangla
+
 For Facebook Title + Hashtags, write them separately like this (with copyable block box) : 
 
 সামাজিক অবক্ষয় রোধে শিক্ষার বিকল্প নেই: ডিএসসিসি প্রশাসক | Abdus Salam | DSCC  | VOD Bangla
