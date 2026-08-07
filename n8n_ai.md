@@ -1,0 +1,1 @@
+# Please convert this into a working n8n workflow. Don't hardcode anything. First, add an Edit Fields node to store the configuration/notes. Make sure all tokens, URLs, and links are dynamic and referenced from variables or fields instead of being hardcoded. and give me a final json file importable in n8n
